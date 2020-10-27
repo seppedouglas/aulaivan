@@ -16,4 +16,5 @@ function calcPrecoUnitarioComDesconto (precoUnitario,quantidade){
     } 
     return precoUnitario - desconto
 }
+//douglas
 console.log(calcPrecoUnitarioComDesconto(10,30));
