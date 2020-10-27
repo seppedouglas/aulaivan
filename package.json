@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Este é um arquivo de exemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seppedouglas/aulaivan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seppedouglas/aulaivan/issues"
+  },
+  "homepage": "https://github.com/seppedouglas/aulaivan#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

@@ -210,6 +210,10 @@ function verificarPalindromo (texto){
  
 
 }
+const readline = require("readline-sync");
+
+let nome = readline.question("Qual seu nome ?");
+console.log(nome);
 
 //verificarPalindromo("DouglaD")
 //imprimirInverso("Abacaxi")
@@ -221,6 +225,6 @@ function verificarPalindromo (texto){
 //posicaoCaracter("E","douglas")
 //somaExibe(10,2);
 //celsiosFahrenheit(10);
-console.log(calcRaiz(25));
+//console.log(calcRaiz(25));
 //exibirConceito(1,1,1); 
 //ordenarAlfabetica("DOUGLAS","IVAN");
