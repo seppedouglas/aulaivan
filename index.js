@@ -17,4 +17,4 @@ function calcPrecoUnitarioComDesconto (precoUnitario,quantidade){
     return precoUnitario - desconto
 }
 
-console.log(calcPrecoUnitarioComDesconto(10,30));
+//console.log(calcPrecoUnitarioComDesconto(10,30));
